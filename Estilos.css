@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+}
+table{
+    border-collapse:collapse;
+    text-align: center;
+}
+th{
+    border-style: solid;
+}
+td{
+    border-style: solid;
+}
